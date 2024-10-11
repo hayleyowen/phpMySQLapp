@@ -18,6 +18,8 @@
 --
 -- Table structure for table `films`
 --
+CREATE DATABASE moviedb; 
+USE moviedb; 
 
 DROP TABLE IF EXISTS `films`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
